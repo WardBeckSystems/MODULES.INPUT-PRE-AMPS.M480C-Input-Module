@@ -1,0 +1,265 @@
+{
+ "code": "M480C",
+ "connector": "RTO-144",
+ "type": "M480C Input Module",
+ "series": null,
+ "contacts": "21 contacts",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "1",
+   "signal": "MIC IN B",
+   "kind": "in",
+   "pair": "A1",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "4",
+   "signal": "AUX",
+   "kind": "audio",
+   "pair": "B2",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "5",
+   "signal": "CUE SOLO",
+   "kind": "audio",
+   "pair": "B1",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "6",
+   "signal": "M1 OUT",
+   "kind": "out",
+   "pair": "A3",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "7",
+   "signal": "M2 OUT",
+   "kind": "out",
+   "pair": "A4",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "10",
+   "signal": "FADER RETURN",
+   "kind": "in",
+   "pair": "B4",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "13",
+   "signal": "LINE IN B",
+   "kind": "in",
+   "pair": "A2",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "16",
+   "signal": "FADER SEND",
+   "kind": "out",
+   "pair": "B3",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "19",
+   "signal": "-25 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "20",
+   "signal": "COMMON",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "21",
+   "signal": "+25 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "A",
+   "signal": "MIC IN B",
+   "kind": "in",
+   "pair": "A1",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "D",
+   "signal": "AUX",
+   "kind": "audio",
+   "pair": "B2",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "E",
+   "signal": "CUE SOLO",
+   "kind": "audio",
+   "pair": "B1",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "F",
+   "signal": "M1 OUT",
+   "kind": "out",
+   "pair": "A3",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "H",
+   "signal": "M2 OUT",
+   "kind": "out",
+   "pair": "A4",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "L",
+   "signal": "FADER RETURN",
+   "kind": "in",
+   "pair": "B4",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "P",
+   "signal": "LINE IN B",
+   "kind": "in",
+   "pair": "A2",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "T",
+   "signal": "FADER SEND",
+   "kind": "out",
+   "pair": "B3",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "Y",
+   "signal": "+48 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
+   "page": 1
+  }
+ ],
+ "straps": [],
+ "power": [
+  {
+   "rail": "VEE-AUDIO",
+   "style": "NEW",
+   "volts": -25,
+   "max_a": 0.2,
+   "supply": "19",
+   "ground": "20",
+   "link": 2
+  },
+  {
+   "rail": "VCC-AUDIO",
+   "style": "NEW",
+   "volts": 25,
+   "max_a": 0.2,
+   "supply": "21",
+   "ground": "20",
+   "link": 1
+  },
+  {
+   "rail": "Phantom",
+   "style": null,
+   "volts": 48,
+   "max_a": 0.2,
+   "supply": "Y",
+   "ground": "20",
+   "link": null
+  }
+ ],
+ "sources": [
+  "Engineering/RTO-144/M480C/M480C.rto144.json"
+ ]
+}
