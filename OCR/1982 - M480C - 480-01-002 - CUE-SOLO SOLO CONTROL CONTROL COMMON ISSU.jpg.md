@@ -24,7 +24,7 @@ Wiki page: [M480C](../../../../PAGES/M480C.md)
 - **Title block:** (286, 1)–(432, 69) mm: IssU DATE · App · WBS WARO-BECK bybteMB · DRn: · ENG · Mew · INPUT MODULE · CKD. · APP · FUNCTIONAL DIAGRAM · SCALE · ISSUE · 480-01-002
 - **Wiring (first pass):** 101 connected wire groups from 265 runs; labelled ends: 301 mm → -ISdB), BST, CUE /, SOLO; 72 mm → PEAK, PGM; 64 mm → BST, PRE/, POST; 58 mm → PRE; 52 mm → Mic/LINE, SELECT
 
-Every curve, box, word and wire group: [1982 - M480C - 480-01-002 - CUE-SOLO SOLO CONTROL CONTROL COMMON ISSU (traced).json](../SCHEMATICS/1982%20-%20M480C%20-%20480-01-002%20-%20CUE-SOLO%20SOLO%20CONTROL%20CONTROL%20COMMON%20ISSU%20(traced).json) (the CAD file: `1982 - M480C - 480-01-002 - CUE-SOLO SOLO CONTROL CONTROL COMMON ISSU (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M480C - 480-01-002 - CUE-SOLO SOLO CONTROL CONTROL COMMON ISSU (traced).json](../SCHEMATICS/1982%20-%20M480C%20-%20480-01-002%20-%20CUE-SOLO%20SOLO%20CONTROL%20CONTROL%20COMMON%20ISSU%20%28traced%29.json) (the CAD file: `1982 - M480C - 480-01-002 - CUE-SOLO SOLO CONTROL CONTROL COMMON ISSU (traced).dxf`).
 
 ## Full text
 

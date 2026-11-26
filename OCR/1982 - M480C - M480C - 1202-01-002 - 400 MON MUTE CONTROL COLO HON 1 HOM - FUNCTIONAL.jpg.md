@@ -25,7 +25,7 @@ Wiki page: [M480C](../../../../PAGES/M480C.md)
 - **Title block:** (181, 10)–(432, 79) mm: cu /t0l0 · cohtrol · CDATEO · olo · control · WBS WARD-Deck BYBTEMI · WBS T1202A CONSOL · FUNCTIONAL DIAGRAM
 - **Wiring (first pass):** 114 connected wire groups from 984 runs, 2 dotted junctions; labelled ends: 10 mm → ucO; 9 mm → BOOULE; 8 mm → FHAATO; 7 mm → BOOULE; 7 mm → BOOULE
 
-Every curve, box, word and wire group: [1982 - M480C - M480C - 1202-01-002 - 400 MON MUTE CONTROL COLO HON 1 HOM - FUNCTIONAL (traced).json](../SCHEMATICS/1982%20-%20M480C%20-%20M480C%20-%201202-01-002%20-%20400%20MON%20MUTE%20CONTROL%20COLO%20HON%201%20HOM%20-%20FUNCTIONAL%20(traced).json) (the CAD file: `1982 - M480C - M480C - 1202-01-002 - 400 MON MUTE CONTROL COLO HON 1 HOM - FUNCTIONAL (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M480C - M480C - 1202-01-002 - 400 MON MUTE CONTROL COLO HON 1 HOM - FUNCTIONAL (traced).json](../SCHEMATICS/1982%20-%20M480C%20-%20M480C%20-%201202-01-002%20-%20400%20MON%20MUTE%20CONTROL%20COLO%20HON%201%20HOM%20-%20FUNCTIONAL%20%28traced%29.json) (the CAD file: `1982 - M480C - M480C - 1202-01-002 - 400 MON MUTE CONTROL COLO HON 1 HOM - FUNCTIONAL (traced).dxf`).
 
 ## Full text
 

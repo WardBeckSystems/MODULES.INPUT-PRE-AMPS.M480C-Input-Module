@@ -23,7 +23,7 @@ Wiki page: [M480C](../../../../PAGES/M480C.md)
 - **Words (OCR):** 46 in 39 lines: IC-015 · 10-040 · 9333 99 · 82 · 1111 · L4js] · 10-029 · AN4 · 534 · 03 · 31 · 8 83
 - **Title block:** (191, 0)–(432, 131) mm: LFjs · WBS #awem · 393 8 CANADA · 38 · IssuDAl · WBS WARD-BeCk Bybtenb · DRN 11/82 Je · ENG · Mew · INPUT MODULE · COMPONENT LAYOUT · SCALI · ISSUE · 480-06 004
 
-Every curve, box, word and wire group: [1982 - M480C - 480-06-004 - INPUT MODULE COMPONENT LAYOUT (traced).json](../SCHEMATICS/1982%20-%20M480C%20-%20480-06-004%20-%20INPUT%20MODULE%20COMPONENT%20LAYOUT%20(traced).json) (the CAD file: `1982 - M480C - 480-06-004 - INPUT MODULE COMPONENT LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M480C - 480-06-004 - INPUT MODULE COMPONENT LAYOUT (traced).json](../SCHEMATICS/1982%20-%20M480C%20-%20480-06-004%20-%20INPUT%20MODULE%20COMPONENT%20LAYOUT%20%28traced%29.json) (the CAD file: `1982 - M480C - 480-06-004 - INPUT MODULE COMPONENT LAYOUT (traced).dxf`).
 
 ## Full text
 

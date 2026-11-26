@@ -22,7 +22,7 @@ Wiki page: [M480C](../../../../PAGES/M480C.md)
 - **Words (OCR):** 47 in 41 lines: WBS · M4b0C · 13 · OFF 48v · OUT PAD · 14 · SENS · MIC · LINE · PEAK · IPGM · 15
 - **Title block:** (114, 0)–(300, 388) mm: WBS · M4b0C · 13 · OFF 48v · OUT PAD · 14 · SENS · MIC · LINE · PEAK · IPGM · 15 · PRE · PSI · AUX · 16 · 8 1.6 32 · 48 · 6.4 · MF · kHz · 18 · 19 · Q20 · PAN · M1 M2 · Issue DATE · Revision · WBS WAR
 
-Every curve, box, word and wire group: [1982 - M480C - 480-04-006 - MABOC INPUT MODULE FRONT PANEL ISSE (traced).json](../MECHANICAL/1982%20-%20M480C%20-%20480-04-006%20-%20MABOC%20INPUT%20MODULE%20FRONT%20PANEL%20ISSE%20(traced).json) (the CAD file: `1982 - M480C - 480-04-006 - MABOC INPUT MODULE FRONT PANEL ISSE (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M480C - 480-04-006 - MABOC INPUT MODULE FRONT PANEL ISSE (traced).json](../MECHANICAL/1982%20-%20M480C%20-%20480-04-006%20-%20MABOC%20INPUT%20MODULE%20FRONT%20PANEL%20ISSE%20%28traced%29.json) (the CAD file: `1982 - M480C - 480-04-006 - MABOC INPUT MODULE FRONT PANEL ISSE (traced).dxf`).
 
 ## Full text
 

@@ -27,7 +27,7 @@ Wiki page: [M480C](../../../../PAGES/M480C.md)
 - **Words (OCR):** 80 in 38 lines: WAI=lD·BECK SYSTEMS LTD · TA BL OF CONTE NTS · M48 0C NPU MODUL · SEC IO · PAGE · Techn ica cete · 1_1 to 1-2 · 2_1 to 2_5 · ircuit De · io · Equ,, Ze Fr · Response
 - **Title block:** (7, 45)–(262, 419) mm: WAI=lD·BECK SYSTEMS LTD · TA BL OF CONTE NTS · M48 0C NPU MODUL · SEC IO · PAGE · Techn ica cete · 1_1 to 1-2 · 2_1 to 2_5 · ircuit De · io · Equ,, Ze Fr · Response · Character tie · to 3-2 · Pa rl · 
 
-Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p1 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20(2)%20p1%20(traced).json) (the CAD file: `1982 - M480C - Input Module (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p1 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20%282%29%20p1%20%28traced%29.json) (the CAD file: `1982 - M480C - Input Module (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -38,7 +38,7 @@ Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p1 (trac
 - **Dots (junctions):** 1
 - **Words (OCR):** 218 in 87 lines: WAFlD-BECl< SYSTEMS LTD · TECHN ICAL OAT · MIoBOC INPUT MOOULE · ",pu 5e...sl llvil' es · Li ne: · :lO to +10 · dam lref .600 ohm · ~rce) · M,c · 10 10 -40 · dBm 1.....1. 150 ohm souI"'Ce · Mlc lPe
 
-Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p2 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20(2)%20p2%20(traced).json) (the CAD file: `1982 - M480C - Input Module (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p2 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20%282%29%20p2%20%28traced%29.json) (the CAD file: `1982 - M480C - Input Module (2) p2 (traced).dxf`).
 
 ### Page 3
 
@@ -48,7 +48,7 @@ Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p2 (trac
 - **Closed boxes:** 1
 - **Words (OCR):** 120 in 68 lines: WARD-BECK BYBTEMS LTD. · EC HNICAL OA TA · M480C NPU · MOCUL · Eq · ze Cont,...,1 · Sect ion · Shel in · IYpe · equa iza ion · IS · ma im
 
-Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p3 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20(2)%20p3%20(traced).json) (the CAD file: `1982 - M480C - Input Module (2) p3 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p3 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20%282%29%20p3%20%28traced%29.json) (the CAD file: `1982 - M480C - Input Module (2) p3 (traced).dxf`).
 
 ### Page 4
 
@@ -60,7 +60,7 @@ Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p3 (trac
 - **Words (OCR):** 380 in 144 lines: WARO-BECK SYSTEMS LTO · CI RCU IT DESCRI TION · M480C NPUT MOD ULE · The M480C Input Modu le rov ides the ",eSN ry · pu $el llon · equ~ lI · 1.~l lon and OUlput · Ignmenl fOf" Ihe · eee ll on · each Inp ul · he T12 02A · spor ble on so le
 - **Title block:** (7, 397)–(112, 420) mm: WARO-BECK SYSTEMS LTO
 
-Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p4 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20(2)%20p4%20(traced).json) (the CAD file: `1982 - M480C - Input Module (2) p4 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p4 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20%282%29%20p4%20%28traced%29.json) (the CAD file: `1982 - M480C - Input Module (2) p4 (traced).dxf`).
 
 ### Page 5
 
@@ -72,7 +72,7 @@ Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p4 (trac
 - **Words (OCR):** 428 in 164 lines: WARO -BECK SYSTEMS LTO. · IRCUIT DESCRIPTION · M48 0C INP UT MODULE · im · ly · the CUr/ BOOST con tro · Rle fo · Ihe Low Frequency · ec tion · fee ds II slgnll · 10 Ih · low-pass
 - **Title block:** (34, 398)–(113, 421) mm: WARO -BECK SYSTEMS LTO.
 
-Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p5 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20(2)%20p5%20(traced).json) (the CAD file: `1982 - M480C - Input Module (2) p5 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p5 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20%282%29%20p5%20%28traced%29.json) (the CAD file: `1982 - M480C - Input Module (2) p5 (traced).dxf`).
 
 ### Page 6
 
@@ -84,7 +84,7 @@ Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p5 (trac
 - **Dots (junctions):** 1
 - **Words (OCR):** 341 in 118 lines: WARD-BECK YSTEMS LTD. · CIRCUIT DESCR IPT ION · /IoI48OC INPU /IoIOOULE · Output -'"'pl lf le.- Con · Th · ou tpu · r-outed 10 the · Att en · lor · In~rl po nt appea ng · mod ule con neclor · ins t6
 
-Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p6 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20(2)%20p6%20(traced).json) (the CAD file: `1982 - M480C - Input Module (2) p6 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p6 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20%282%29%20p6%20%28traced%29.json) (the CAD file: `1982 - M480C - Input Module (2) p6 (traced).dxf`).
 
 ### Page 7
 
@@ -96,7 +96,7 @@ Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p6 (trac
 - **Words (OCR):** 362 in 166 lines: WARO-BECK SYSTEMS LTO · CI RCU IT DESCR IP ION · M48 0C INPU MOOULE · Au Ovl UI · ou lp · prov, ed 10 fe-ed · li · m,x''''g · The · /Po · ll · SW7 alto...s he sl
 - **Title block:** (7, 243)–(114, 420) mm: WARO-BECK SYSTEMS LTO · Au Ovl UI · ou lp · /Po · ll · SW7 alto...s he sl · he · de · 01" · afl · nomina · in-n and · Pos pos il lon · eq · Ole ll me te · R9 · SWl is 'he assi gnme nt wi ICh. · AUX ou
 
-Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p7 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20(2)%20p7%20(traced).json) (the CAD file: `1982 - M480C - Input Module (2) p7 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p7 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20%282%29%20p7%20%28traced%29.json) (the CAD file: `1982 - M480C - Input Module (2) p7 (traced).dxf`).
 
 ### Page 8
 
@@ -106,7 +106,7 @@ Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p7 (trac
 - **Words (OCR):** 90 in 34 lines: WAFlD-BECK SySTE · LTD. · IR CUIT DESC RIP TION · M48 0C IN UT MODULE · Ref · 10 T120 2A · SHl Oll on s«;llon lo · sel_up · nd · Iibrel;on of · dic lor InrOlShold con rol · I04.
 - **Title block:** (8, 257)–(218, 421) mm: WAFlD-BECK SySTE · LTD. · IR CUIT DESC RIP TION · M48 0C IN UT MODULE · Ref · 10 T120 2A · SHl Oll on s«;llon lo · sel_up · nd · dic lor InrOlShold con rol · I04. · Power Su pl · O~oup lln!l · Po · su
 
-Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p8 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20(2)%20p8%20(traced).json) (the CAD file: `1982 - M480C - Input Module (2) p8 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p8 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20%282%29%20p8%20%28traced%29.json) (the CAD file: `1982 - M480C - Input Module (2) p8 (traced).dxf`).
 
 ### Page 9
 
@@ -116,7 +116,7 @@ Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p8 (trac
 - **Closed boxes:** 113; named: .pt. .•I-+f; .pt.; .•I-+f
 - **Words (OCR):** 46 in 20 lines: Fl · BI!: CK YSTEM LT · REQU ENCY REsPQNSE CHARACT ERI STI CS · M4BQC INPUT MOOULE EOUALlZ SR · .pt. · .•I-+f · OW REQUENCY · rr: 15 · se tio · iR)OSf/CU · REQUE NCY · 100 H2
 
-Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p9 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20(2)%20p9%20(traced).json) (the CAD file: `1982 - M480C - Input Module (2) p9 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p9 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20%282%29%20p9%20%28traced%29.json) (the CAD file: `1982 - M480C - Input Module (2) p9 (traced).dxf`).
 
 ### Page 10
 
@@ -128,7 +128,7 @@ Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p9 (trac
 - **Words (OCR):** 38 in 22 lines: WARO ·BECK SYSTEMS LTD. · FR EQUENCV RESPO NSE CHARACTERISTI CS · "'480(: · INPUT "'OOLLE EQU....LllER · FREQUE NCV 5eC1;on · BOOST/CU · 15 · dB. · REQUENCV, · to · kH · ~~::lt;
 - **Title block:** (33, 400)–(113, 422) mm: WARO ·BECK SYSTEMS LTD.
 
-Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p10 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20(2)%20p10%20(traced).json) (the CAD file: `1982 - M480C - Input Module (2) p10 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p10 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20%282%29%20p10%20%28traced%29.json) (the CAD file: `1982 - M480C - Input Module (2) p10 (traced).dxf`).
 
 ### Page 11
 
@@ -138,7 +138,7 @@ Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p10 (tra
 - **Words (OCR):** 162 in 105 lines: WARC -BECK SYSTEMS LTC · PARTS LIST · M~8OC NPUT MODUL · PART · OESCR IPTION · PAR HUMBER · pa llor · 10 uF/ · Ph ilips · 035 SER IE · C2 · 0.022
 - **Title block:** (32, 397)–(112, 420) mm: WARC -BECK SYSTEMS LTC
 
-Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p11 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20(2)%20p11%20(traced).json) (the CAD file: `1982 - M480C - Input Module (2) p11 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p11 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20%282%29%20p11%20%28traced%29.json) (the CAD file: `1982 - M480C - Input Module (2) p11 (traced).dxf`).
 
 ### Page 12
 
@@ -148,7 +148,7 @@ Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p11 (tra
 - **Closed boxes:** 1
 - **Words (OCR):** 123 in 85 lines: PARTS LIST · 8OC INPUT MODULE · PART · OESCR IPT ION · FO · "FO · PART NUM8ER · C"Pllc: ll or · 10 uF/25 · TJ9QC 1(l6M0 25AS · en · 220 FjlO
 
-Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p12 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20(2)%20p12%20(traced).json) (the CAD file: `1982 - M480C - Input Module (2) p12 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p12 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20%282%29%20p12%20%28traced%29.json) (the CAD file: `1982 - M480C - Input Module (2) p12 (traced).dxf`).
 
 ### Page 13
 
@@ -159,7 +159,7 @@ Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p12 (tra
 - **Words (OCR):** 81 in 57 lines: WARD -BECK SYSTEMS · LTD. · PARTS IS · M4BOC INP UT MODULE · PART · OESCRI · ION · MF · MFC PA RT NUM BER · ce · tor · Nllt lo nll
 - **Title block:** (9, 396)–(114, 419) mm: WARD -BECK SYSTEMS
 
-Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p13 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20(2)%20p13%20(traced).json) (the CAD file: `1982 - M480C - Input Module (2) p13 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p13 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20%282%29%20p13%20%28traced%29.json) (the CAD file: `1982 - M480C - Input Module (2) p13 (traced).dxf`).
 
 ### Page 14
 
@@ -169,7 +169,7 @@ Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p13 (tra
 - **Words (OCR):** 102 in 57 lines: WARD -BECK YSTEMS L.TD · PAR TS LIST · M480C · NPUT MODUL · PART · DESCR PT ON · "CO · PART · MUNBER · Resis tor · 1!4W · Ph il ip
 - **Title block:** (9, 396)–(72, 418) mm: WARD -BECK YSTEMS L.TD
 
-Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p14 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20(2)%20p14%20(traced).json) (the CAD file: `1982 - M480C - Input Module (2) p14 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p14 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20%282%29%20p14%20%28traced%29.json) (the CAD file: `1982 - M480C - Input Module (2) p14 (traced).dxf`).
 
 ### Page 15
 
@@ -179,7 +179,7 @@ Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p14 (tra
 - **Words (OCR):** 82 in 61 lines: WARC ·BECK YSTEMS LTC · PART LIST · M480C INP UT MODUL · PART · DESCR TION · MFG PART NUM 8ER · R66 · R~slstor · 4W · Phili ps · 30 · ROS
 - **Title block:** (34, 118)–(231, 420) mm: WARC ·BECK YSTEMS LTC · PART LIST · M480C INP UT MODUL · PART · DESCR TION · R66 · R~slstor · 4W · Phili ps · 30 · Res;stOt'" · Philips · R10 · Rn · R7S · OK · en · 'OK · R?8 · R7S · ROO' · Potenl;omo
 
-Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p15 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20(2)%20p15%20(traced).json) (the CAD file: `1982 - M480C - Input Module (2) p15 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p15 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20%282%29%20p15%20%28traced%29.json) (the CAD file: `1982 - M480C - Input Module (2) p15 (traced).dxf`).
 
 ### Page 16
 
@@ -189,7 +189,7 @@ Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p15 (tra
 - **Words (OCR):** 123 in 78 lines: WARD-BeCK SYSTI!MS L.TD. · PART LI ST · M480C NPU MOOULE · PAR · OESCRI TION · "FG · "FG · PART NUMB · Rl01 · Res ls to.. · j4W · Phllips
 - **Title block:** (9, 83)–(229, 426) mm: WARD-BeCK SYSTI!MS L.TD. · PART LI ST · M480C NPU MOOULE · PAR · OESCRI TION · "FG · "FG · Rl01 · Res ls to.. · j4W · Phllips · 02 · RI · Plhe · lOV · ROO' Res ls lor 4W · SI · Ph ilips · IO? · ROO' ·
 
-Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p16 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20(2)%20p16%20(traced).json) (the CAD file: `1982 - M480C - Input Module (2) p16 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p16 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20%282%29%20p16%20%28traced%29.json) (the CAD file: `1982 - M480C - Input Module (2) p16 (traced).dxf`).
 
 ### Page 17
 
@@ -200,7 +200,7 @@ Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p16 (tra
 - **Closed boxes:** 1
 - **Words (OCR):** 114 in 78 lines: WAFID -BECK VSTI!MS LTC · TS iST · ~OC NPU MOOUL · P....R · DESCRI TI ON · PAR NUMBER · UJ · lt · Nll ti on ll · F)S3N · F3SJN · NE SS34
 
-Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p17 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20(2)%20p17%20(traced).json) (the CAD file: `1982 - M480C - Input Module (2) p17 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p17 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20%282%29%20p17%20%28traced%29.json) (the CAD file: `1982 - M480C - Input Module (2) p17 (traced).dxf`).
 
 ### Page 18
 
@@ -211,7 +211,7 @@ Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p17 (tra
 - **Closed boxes:** 1
 - **Words (OCR):** 69 in 38 lines: WARO -BE CK YSTEMS LTO. · PART NUMBER · M480C NPUT MODUL · "SED · DESCRI PT ON · MF PA RT NUMBER · Bu lton · Wh · rr · FM_WH · SWl · Gr~l'
 
-Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p18 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20(2)%20p18%20(traced).json) (the CAD file: `1982 - M480C - Input Module (2) p18 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p18 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20%282%29%20p18%20%28traced%29.json) (the CAD file: `1982 - M480C - Input Module (2) p18 (traced).dxf`).
 
 ### Page 19
 
@@ -224,7 +224,7 @@ Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p18 (tra
 - **Words (OCR):** 98 in 61 lines: WARD ·BECK SYSTEMS · LTD · CONNECTOR · VOU · M/oBoe NPU MOQUL · INPUT · NPU · MI · NP UT · NPUT · SH EL · SH IE
 - **Title block:** (8, 398)–(114, 420) mm: WARD ·BECK SYSTEMS
 
-Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p19 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20(2)%20p19%20(traced).json) (the CAD file: `1982 - M480C - Input Module (2) p19 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p19 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20%282%29%20p19%20%28traced%29.json) (the CAD file: `1982 - M480C - Input Module (2) p19 (traced).dxf`).
 
 ### Page 20
 
@@ -234,7 +234,7 @@ Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p19 (tra
 - **Circles and arcs:** 3 circles, 0 arcs; largest r 2.1 @ (64.6, 246.1), r 2.1 @ (65.5, 325.1), r 1.6 @ (94.0, 48.4)
 - **Words (OCR):** 332 in 126 lines: WA~D-BECK YSTEMS LTD · OPERAT IONAL CONTROLS · M480C INPU MOOULE · II · PHANT OM · OWER · wi lch SWI: Selec · .48 vol ts phanlom pow"r 10 · he ".,lc l"OPhon · UI for · condcn~ ".,lcl"OPOOne appiIUi ion". · MIC
 
-Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p20 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20(2)%20p20%20(traced).json) (the CAD file: `1982 - M480C - Input Module (2) p20 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p20 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20%282%29%20p20%20%28traced%29.json) (the CAD file: `1982 - M480C - Input Module (2) p20 (traced).dxf`).
 
 ### Page 21
 
@@ -244,7 +244,7 @@ Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p20 (tra
 - **Closed boxes:** 1; named: ·BECl<
 - **Words (OCR):** 250 in 102 lines: WAFlD ·BECl< SYSTEMS LTD · OPER ATIONAL CONTROLS · M480C INPUT MODULE · GM/PEAK Ind icat or 052 · Fla"he" green · ith norma · am · ever of · VU Of" · .-calc" · at lhe · re
 
-Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p21 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20(2)%20p21%20(traced).json) (the CAD file: `1982 - M480C - Input Module (2) p21 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p21 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20%282%29%20p21%20%28traced%29.json) (the CAD file: `1982 - M480C - Input Module (2) p21 (traced).dxf`).
 
 ### Page 22
 
@@ -257,7 +257,7 @@ Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p21 (tra
 - **Words (OCR):** 57 in 44 lines: BS · M480C · ~13 · 48" · OFF · OUT · PAD · J:1 · 30 SENSO · MIC · UtI li · PEAK
 - **Title block:** (192, 13)–(285, 58) mm: ps · IISSUEIOATf · BS REVISION · VVElS) WARD-BECK SYS · DRN. · ENG. · f.Al-!w · tp · 480C · ht · INPUT MODULE · FRONT PANEl
 
-Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p22 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20(2)%20p22%20(traced).json) (the CAD file: `1982 - M480C - Input Module (2) p22 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p22 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20%282%29%20p22%20%28traced%29.json) (the CAD file: `1982 - M480C - Input Module (2) p22 (traced).dxf`).
 
 ### Page 23
 
@@ -271,7 +271,7 @@ Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p22 (tra
 - **Title block:** (286, 1)–(432, 68) mm: ISSUE DATE · REVISION · APP. · (VVE3S) WARD-BECK YSTEM · ps · BS · DRN · lol~. · M480C · Me"" · ENG. · INPUT MODULE · CKO. · tp · FUNCTIONAL DIAGRAM · ht · APP. · SCALE · ISSUE · 480-01 -002
 - **Wiring (first pass):** 87 connected wire groups from 254 runs; labelled ends: 302 mm → L-.-J, SOLO; 80 mm → EQUALI; 72 mm → PEAK, PGM; 64 mm → POST; 52 mm → SELECT
 
-Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p23 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20(2)%20p23%20(traced).json) (the CAD file: `1982 - M480C - Input Module (2) p23 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p23 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20%282%29%20p23%20%28traced%29.json) (the CAD file: `1982 - M480C - Input Module (2) p23 (traced).dxf`).
 
 ### Page 24
 
@@ -284,7 +284,7 @@ Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p23 (tra
 - **Words (OCR):** 198 in 142 lines: PT. Nil · DESC RIP ION · EO INSERT · os · PHANT(»ol POWER · FLVII7 · IiOTES · Al.L AES ISTOflS · Al.L CAPAClTe.ts ARE 1M uF · 4W 5S AND · PIolA.NT OIol · -.BV
 - **Title block:** (356, 0)–(432, 36) mm: 1'1•• · !ISSUE loAT£ · tp · (VVBS) · D-BEC · SYSTEMS · ht Jp · DRN. 11/8 · M-480C · ENG · Mi!J..J · INPUT MODULE · CKD · APP · SCHEMATIC · SCAl( · <SSU< · "'80 02- 00
 
-Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p24 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20(2)%20p24%20(traced).json) (the CAD file: `1982 - M480C - Input Module (2) p24 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p24 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20%282%29%20p24%20%28traced%29.json) (the CAD file: `1982 - M480C - Input Module (2) p24 (traced).dxf`).
 
 ### Page 25
 
@@ -295,7 +295,7 @@ Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p24 (tra
 - **Closed boxes:** 17; named: ht
 - **Words (OCR):** 43 in 32 lines: so. · 11L., · ID~~ · IIJ'_oo,,, · Iv · GE' · 31 · Ul · ii LF~N · II · 14 49 · O~~22 O~~2 UI~ ti: CANADA
 
-Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p25 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20(2)%20p25%20(traced).json) (the CAD file: `1982 - M480C - Input Module (2) p25 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M480C - Input Module (2) p25 (traced).json](../MANUALS/1982%20-%20M480C%20-%20Input%20Module%20%282%29%20p25%20%28traced%29.json) (the CAD file: `1982 - M480C - Input Module (2) p25 (traced).dxf`).
 
 ## Full text
 

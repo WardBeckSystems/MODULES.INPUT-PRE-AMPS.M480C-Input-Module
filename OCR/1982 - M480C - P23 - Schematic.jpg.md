@@ -12,6 +12,21 @@ Wiki page: [M480C](../../../../PAGES/M480C.md)
 - **Size:** 397,648 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 432 × 280 mm, 2000 × 1299 px traced (0.216 mm/px)
+- **Ink extent:** 8–432 mm across, 0–280 mm up
+- **Outlines:** line 1,088 rings, 11,827 straight (19,821 mm) / 2,322 curved (2,889 mm); text 1,114 rings, 6,645 straight (4,900 mm) / 1,893 curved (2,142 mm); tb 5 rings, 54 straight (106 mm) / 11 curved (17.7 mm)
+- **Centre lines:** 16,663 paths (497 closed); straight 14,876 mm, curved 222 mm; horizontal 4,620 mm, vertical 4,282 mm, diagonal 5,974 mm
+- **Circles and arcs:** 0 circles, 61 arcs
+- **Closed boxes:** 16 (5 in the title block); named: REvISION
+- **Dots (junctions):** 6
+- **Words (OCR):** 327 in 300 lines: De scRiPTION · E0 inserT · PhaNTOM PoeA · FLVITZ · NOTESi · R26 · sw5 · PAN · ALL · ALL CaPAciTORS ARE · Resistors 1/47 51 AND · PHANTOH
+- **Title block:** (356, 0)–(424, 36) mm: Wet · ec1 · ISSLE (DATE · REvISION · WBS WARD-Beck gybtenb · DRN: 182 Jei · ENGMewJ · M480€ · Ckd · INPUT MODULE · APp · SCHEMATIC · SCAlE · 480 -02-0Os
+- **Wiring (first pass):** 197 connected wire groups from 1,171 runs, 2 dotted junctions; labelled ends: 302 mm → insert, PRE, PSLO; 174 mm → RS6, CJo, 10-039, cz6; 160 mm → LFJ56h, 68 /6, RZI, 33}; 158 mm → A28, Czi, 68 /6, 680Op; 151 mm → Ais, 22k
+
+Every curve, box, word and wire group: [1982 - M480C - P23 - Schematic (traced).json](../SCHEMATICS/1982%20-%20M480C%20-%20P23%20-%20Schematic%20%28traced%29.json) (the CAD file: `1982 - M480C - P23 - Schematic (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 19 words corrected)
