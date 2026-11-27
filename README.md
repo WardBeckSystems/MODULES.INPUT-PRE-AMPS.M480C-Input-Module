@@ -83,6 +83,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQXlXcUVUaW51WEk/view?resourcekey=0-rQ_rqjXqrtyICK95V5wz9Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQXlXcUVUaW51WEk&resourcekey=0-rQ_rqjXqrtyICK95V5wz9Q" width="240" alt="1982 - M480C - 480-04-006 - MABOC INPUT MODULE FRONT PANEL ISSE.jpg"></a><br><sub>1982|15 · 480-04-006 - MABOC INPUT MODULE FRONT PANEL ISSE · <a href="MECHANICAL/1982%20-%20M480C%20-%20480-04-006%20-%20MABOC%20INPUT%20MODULE%20FRONT%20PANEL%20ISSE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSWQ4LWo2N01MRW8/view?resourcekey=0-HONMjFQUNiYS3FNM5KZfNw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSWQ4LWo2N01MRW8&resourcekey=0-HONMjFQUNiYS3FNM5KZfNw" width="240" alt="19xx - M480C - DOC - 1202-04-007 - OSCILLATOR CUE-SOLO RE-ENTRY AND AUX LEVEL SCHEMATIC.jpg"></a><br><sub>19xx - M480C - DOC - 1202-04-007 - OSCILLATOR CUE-SOLO RE-ENTRY AND AUX LEVEL SCHEMATIC</sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M480C.stl`](MECHANICAL/M480C.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M480C)
+
+- **Size:** 63.63 × 315.73 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 23 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M480C - front panel.svg`)
+- the drawn panel is 0.15 wide to high, the size 0.20: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M480C.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
