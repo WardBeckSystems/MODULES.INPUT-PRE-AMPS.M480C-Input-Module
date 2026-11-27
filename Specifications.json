@@ -1,0 +1,181 @@
+{
+ "module": "M480C",
+ "title": "M48OC INPUT MODULE",
+ "source": {
+  "file": "MANUALS/1982 - M480C - P02 - 1-1.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.9,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Input sensitivities",
+   "key": "input_sensitivity",
+   "text": "",
+   "items": [
+    {
+     "name": "Line",
+     "text": "Mic: Mic/Pad +10 dBm (ref 600 ohm source) ~40 dBm (ref-150 ohm source) -20 dBm (ref.150 ohm source)",
+     "quantities": [
+      {
+       "value": 10,
+       "unit": "dBm"
+      },
+      {
+       "value": 600,
+       "unit": "ohm"
+      },
+      {
+       "value": 40,
+       "unit": "dBm"
+      },
+      {
+       "value": -150,
+       "unit": "ohm"
+      },
+      {
+       "value": -20,
+       "unit": "dBm"
+      },
+      {
+       "value": 150,
+       "unit": "ohm"
+      }
+     ],
+     "key": "line"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "0.25 dB from Hz 20 kHz. (Equalizer bypass position).",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "dB"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "-125 dB EIN maximum Sensitivity (20 Hz 20 kHz). dB S/N with Sensitivity set dBm Linc (20 Hz 20 kHz)",
+   "quantities": [
+    {
+     "value": -125,
+     "unit": "dB"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.357 THD from Hz 20 KHz dBm less at insertion point. Less than 0.17 kAz +27 dBm. Equalizer controls flat positions not inserted",
+   "quantities": [
+    {
+     "value": 20,
+     "unit": "KHz"
+    },
+    {
+     "value": 27,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedances",
+   "key": "source_impedance",
+   "text": "Line Mic 600 ohms less balanced/unbalanced_ 150 ohms, balanced unbalanced Inpul Impedances",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 150,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Line",
+   "key": "line",
+   "text": "Mic: 000 ohms 750 oNmis minimum",
+   "quantities": [
+    {
+     "value": 0,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "Less than 100 ohms (at Tnscrtion point) sok ohms 180k ohms current source (at module outputs)",
+   "quantities": [
+    {
+     "value": 100,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "600 ohms, balanced (at insertion point) _ Less than ohms (at moduloutputs)",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output level",
+   "key": "output_level",
+   "text": "dBm nominal +27 dBm maximum (at insertion point)",
+   "quantities": [
+    {
+     "value": 27,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "Input and Output terminals designated by numbers are phase"
+  }
+ ],
+ "also_in": [
+  {
+   "file": "MANUALS/1982 - M480C - Input Module.pdf",
+   "page": 2
+  },
+  {
+   "file": "MANUALS/1982 - M480C - Input Module.pdf",
+   "page": 3
+  }
+ ]
+}
