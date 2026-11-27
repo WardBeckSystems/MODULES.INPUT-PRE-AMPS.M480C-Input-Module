@@ -1,0 +1,579 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "1982 - M480C - P18 - 5-1 - pinout.jpg",
+  "module": "M480C",
+  "applies_to": [
+    "M480C"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": null,
+    "title": "P1 CONNECTOR LAYOUT M480C INPUT MODULE",
+    "date": null,
+    "issue": null,
+    "drawn": null
+  },
+  "connectors": [
+    {
+      "name": "P1",
+      "kind": "edge",
+      "contacts": 44,
+      "rows": "A-Z (no G, I, O, Q) opposite 1-22",
+      "view": null,
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P1",
+      "pin": "1",
+      "also": null,
+      "as_drawn": "MIC B INPUT",
+      "signal": "MIC B INPUT",
+      "kind": "in",
+      "port": "MIC B INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "A",
+      "also": null,
+      "as_drawn": "MIC B INPUT",
+      "signal": "MIC B INPUT",
+      "kind": "in",
+      "port": "MIC B INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "2",
+      "also": null,
+      "as_drawn": "MIC A INPUT",
+      "signal": "MIC A INPUT",
+      "kind": "in",
+      "port": "MIC A INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "B",
+      "also": null,
+      "as_drawn": "MIC A INPUT",
+      "signal": "MIC A INPUT",
+      "kind": "in",
+      "port": "MIC A INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "3",
+      "also": null,
+      "as_drawn": "SHIELD",
+      "signal": "SHIELD",
+      "kind": "shield",
+      "port": null,
+      "polarity": "shield"
+    },
+    {
+      "connector": "P1",
+      "pin": "C",
+      "also": null,
+      "as_drawn": "SHIELD",
+      "signal": "SHIELD",
+      "kind": "shield",
+      "port": null,
+      "polarity": "shield"
+    },
+    {
+      "connector": "P1",
+      "pin": "4",
+      "also": null,
+      "as_drawn": "AUX OUTPUT",
+      "signal": "AUX OUTPUT",
+      "kind": "out",
+      "port": "AUX OUTPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "D",
+      "also": null,
+      "as_drawn": "AUX OUTPUT",
+      "signal": "AUX OUTPUT",
+      "kind": "out",
+      "port": "AUX OUTPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "5",
+      "also": null,
+      "as_drawn": "CUE/SOLO OUTPUTS",
+      "signal": "CUE/SOLO OUTPUT",
+      "kind": "out",
+      "port": "CUE/SOLO OUTPUTS",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "E",
+      "also": null,
+      "as_drawn": "CUE/SOLO OUTPUTS",
+      "signal": "CUE/SOLO OUTPUT",
+      "kind": "out",
+      "port": "CUE/SOLO OUTPUTS",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "6",
+      "also": null,
+      "as_drawn": "M1 OUTPUT",
+      "signal": "M1 OUTPUT",
+      "kind": "out",
+      "port": "M1 OUTPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "F",
+      "also": null,
+      "as_drawn": "M1 OUTPUT",
+      "signal": "M1 OUTPUT",
+      "kind": "out",
+      "port": "M1 OUTPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "7",
+      "also": null,
+      "as_drawn": "M2 OUTPUT",
+      "signal": "M2 OUTPUT",
+      "kind": "out",
+      "port": "M2 OUTPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "H",
+      "also": null,
+      "as_drawn": "M2 OUTPUT",
+      "signal": "M2 OUTPUT",
+      "kind": "out",
+      "port": "M2 OUTPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "8",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "J",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "9",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "K",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "10",
+      "also": null,
+      "as_drawn": "FADER INSERT IN",
+      "signal": "FADER INSERT IN",
+      "kind": "insert_return",
+      "port": "FADER INSERT IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "L",
+      "also": null,
+      "as_drawn": "FADER INSERT IN",
+      "signal": "FADER INSERT IN",
+      "kind": "insert_return",
+      "port": "FADER INSERT IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "11",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "M",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "12",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "N",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "13",
+      "also": null,
+      "as_drawn": "LINE A INPUT",
+      "signal": "LINE A INPUT",
+      "kind": "in",
+      "port": "LINE A INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "P",
+      "also": null,
+      "as_drawn": "LINE A INPUT",
+      "signal": "LINE A INPUT",
+      "kind": "in",
+      "port": "LINE A INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "14",
+      "also": null,
+      "as_drawn": "LINE B INPUT",
+      "signal": "LINE B INPUT",
+      "kind": "in",
+      "port": "LINE B INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "R",
+      "also": null,
+      "as_drawn": "LINE B INPUT",
+      "signal": "LINE B INPUT",
+      "kind": "in",
+      "port": "LINE B INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "15",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "S",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "16",
+      "also": null,
+      "as_drawn": "FADER INSERT OUT",
+      "signal": "FADER INSERT OUT",
+      "kind": "insert_send",
+      "port": "FADER INSERT OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "T",
+      "also": null,
+      "as_drawn": "FADER INSERT OUT",
+      "signal": "FADER INSERT OUT",
+      "kind": "insert_send",
+      "port": "FADER INSERT OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "17",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "U",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "18",
+      "also": null,
+      "as_drawn": "CTL COM",
+      "signal": "CONTROL COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "V",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "19",
+      "also": null,
+      "as_drawn": "-25V",
+      "signal": "-25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "W",
+      "also": null,
+      "as_drawn": "M1 CTL",
+      "signal": "M1 CONTROL",
+      "kind": "control_in",
+      "port": "M1 CTL",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "20",
+      "also": null,
+      "as_drawn": "COMMON",
+      "signal": "COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "X",
+      "also": null,
+      "as_drawn": "M2 CTL",
+      "signal": "M2 CONTROL",
+      "kind": "control_in",
+      "port": "M2 CTL",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "21",
+      "also": null,
+      "as_drawn": "+25V",
+      "signal": "+25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "Y",
+      "also": null,
+      "as_drawn": "+48 PHANTOM POWER",
+      "signal": "+48 V PHANTOM",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "22",
+      "also": null,
+      "as_drawn": "CHASSIS",
+      "signal": "CHASSIS",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "Z",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "MIC B INPUT",
+      "dir": "in",
+      "pins": {
+        "a": "P1-1",
+        "b": "P1-A"
+      }
+    },
+    {
+      "name": "MIC A INPUT",
+      "dir": "in",
+      "pins": {
+        "a": "P1-2",
+        "b": "P1-B"
+      }
+    },
+    {
+      "name": "AUX OUTPUT",
+      "dir": "out",
+      "pins": {
+        "a": "P1-4",
+        "b": "P1-D"
+      }
+    },
+    {
+      "name": "CUE/SOLO OUTPUTS",
+      "dir": "out",
+      "pins": {
+        "a": "P1-5",
+        "b": "P1-E"
+      }
+    },
+    {
+      "name": "M1 OUTPUT",
+      "dir": "out",
+      "pins": {
+        "a": "P1-6",
+        "b": "P1-F"
+      }
+    },
+    {
+      "name": "M2 OUTPUT",
+      "dir": "out",
+      "pins": {
+        "a": "P1-7",
+        "b": "P1-H"
+      }
+    },
+    {
+      "name": "FADER INSERT IN",
+      "dir": "insert_return",
+      "pins": {
+        "a": "P1-10",
+        "b": "P1-L"
+      }
+    },
+    {
+      "name": "LINE A INPUT",
+      "dir": "in",
+      "pins": {
+        "a": "P1-13",
+        "b": "P1-P"
+      }
+    },
+    {
+      "name": "LINE B INPUT",
+      "dir": "in",
+      "pins": {
+        "a": "P1-14",
+        "b": "P1-R"
+      }
+    },
+    {
+      "name": "FADER INSERT OUT",
+      "dir": "insert_send",
+      "pins": {
+        "a": "P1-16",
+        "b": "P1-T"
+      }
+    },
+    {
+      "name": "M1 CTL",
+      "dir": "control_in",
+      "pins": {
+        "a": "P1-W"
+      }
+    },
+    {
+      "name": "M2 CTL",
+      "dir": "control_in",
+      "pins": {
+        "a": "P1-X"
+      }
+    }
+  ],
+  "inserts": [
+    {
+      "name": "FADER INSERT",
+      "send": "FADER INSERT OUT",
+      "return": "FADER INSERT IN",
+      "normalled": null,
+      "note": "T/16 out, L/10 in"
+    }
+  ],
+  "straps": [],
+  "unread": [
+    "manual page 5-1: no drawing number, date or view direction given"
+  ],
+  "confidence": "high",
+  "notes": "Manual page, not a drawing. Labels are written on both sides, once per contact, so every contact is its own pin (also=null); same-label pairs are a/b (number/letter) with no polarity marks. Side differences: 18 CTL COM / V NC; 19 -25V / W M1 CTL; 20 COMMON / X M2 CTL; 21 +25V / Y +48 PHANTOM POWER; 22 CHASSIS / Z NC. SHIELD C/3 not tied to a single port. M1/M2 CTL direction assumed as control inputs (assignment switching)."
+}

@@ -3,263 +3,916 @@
  "connector": "RTO-144",
  "type": "M480C Input Module",
  "series": null,
- "contacts": "21 contacts",
+ "connectors": [
+  {
+   "name": "P1",
+   "kind": "edge",
+   "contacts": 44,
+   "rows": "A-Z (no G, I, O, Q) opposite 1-22",
+   "view": null,
+   "part": null
+  }
+ ],
  "verified": null,
- "derived": false,
- "variant_of": null,
+ "built_from": {
+  "pictures": [
+   "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+  ],
+  "sheet": "Engineering/RTO-144/M480C/M480C.rto144.json",
+  "sheet_agrees": "20 of 20"
+ },
  "pins": [
   {
+   "connector": "P1",
    "pin": "1",
-   "signal": "MIC IN B",
+   "ref": "1",
+   "also": null,
+   "same_row": null,
+   "signal": "MIC B INPUT",
    "kind": "in",
-   "pair": "A1",
-   "polarity": "+",
+   "port": "MIC B INPUT",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
-   "page": 1
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": {
+    "signal": "MIC-IN-B +",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
+   "pin": "2",
+   "ref": "2",
+   "also": null,
+   "same_row": null,
+   "signal": "MIC A INPUT",
+   "kind": "in",
+   "port": "MIC A INPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "3",
+   "ref": "3",
+   "also": null,
+   "same_row": null,
+   "signal": "SHIELD",
+   "kind": "shield",
+   "port": null,
+   "polarity": "shield",
+   "confidence": "high",
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
    "pin": "4",
-   "signal": "AUX",
-   "kind": "audio",
-   "pair": "B2",
-   "polarity": "+",
+   "ref": "4",
+   "also": null,
+   "same_row": null,
+   "signal": "AUX OUTPUT",
+   "kind": "out",
+   "port": "AUX OUTPUT",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
-   "page": 1
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Aux +",
+    "kind": "other",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "5",
-   "signal": "CUE SOLO",
-   "kind": "audio",
-   "pair": "B1",
-   "polarity": "+",
+   "ref": "5",
+   "also": null,
+   "same_row": null,
+   "signal": "CUE/SOLO OUTPUT",
+   "kind": "out",
+   "port": "CUE/SOLO OUTPUTS",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
-   "page": 1
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Cue Solo +",
+    "kind": "other",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "6",
-   "signal": "M1 OUT",
+   "ref": "6",
+   "also": null,
+   "same_row": null,
+   "signal": "M1 OUTPUT",
    "kind": "out",
-   "pair": "A3",
-   "polarity": "+",
+   "port": "M1 OUTPUT",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
-   "page": 1
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": {
+    "signal": "M1 OUT +",
+    "kind": "out",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "7",
-   "signal": "M2 OUT",
+   "ref": "7",
+   "also": null,
+   "same_row": null,
+   "signal": "M2 OUTPUT",
    "kind": "out",
-   "pair": "A4",
-   "polarity": "+",
+   "port": "M2 OUTPUT",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
-   "page": 1
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": {
+    "signal": "M2 OUT +",
+    "kind": "out",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
+   "pin": "8",
+   "ref": "8",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "9",
+   "ref": "9",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
    "pin": "10",
-   "signal": "FADER RETURN",
-   "kind": "in",
-   "pair": "B4",
-   "polarity": "-",
+   "ref": "10",
+   "also": null,
+   "same_row": null,
+   "signal": "FADER INSERT IN",
+   "kind": "insert_return",
+   "port": "FADER INSERT IN",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
-   "page": 1
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Fader Return -",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
+   "pin": "11",
+   "ref": "11",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "12",
+   "ref": "12",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
    "pin": "13",
-   "signal": "LINE IN B",
+   "ref": "13",
+   "also": null,
+   "same_row": null,
+   "signal": "LINE A INPUT",
    "kind": "in",
-   "pair": "A2",
-   "polarity": "+",
+   "port": "LINE A INPUT",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
-   "page": 1
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Line IN-B +",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
+   "pin": "14",
+   "ref": "14",
+   "also": null,
+   "same_row": null,
+   "signal": "LINE B INPUT",
+   "kind": "in",
+   "port": "LINE B INPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "15",
+   "ref": "15",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
    "pin": "16",
-   "signal": "FADER SEND",
-   "kind": "out",
-   "pair": "B3",
-   "polarity": "+",
+   "ref": "16",
+   "also": null,
+   "same_row": null,
+   "signal": "FADER INSERT OUT",
+   "kind": "insert_send",
+   "port": "FADER INSERT OUT",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
-   "page": 1
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Fader Send +",
+    "kind": "out",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
+   "pin": "17",
+   "ref": "17",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "18",
+   "ref": "18",
+   "also": null,
+   "same_row": null,
+   "signal": "CONTROL COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
    "pin": "19",
+   "ref": "19",
+   "also": null,
+   "same_row": null,
    "signal": "-25 V",
    "kind": "power",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
-   "page": 1
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VEE-AUDIO",
+    "kind": "power",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "20",
+   "ref": "20",
+   "also": null,
+   "same_row": null,
    "signal": "COMMON",
    "kind": "ground",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
-   "page": 1
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": {
+    "signal": "GND",
+    "kind": "ground",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "21",
+   "ref": "21",
+   "also": null,
+   "same_row": null,
    "signal": "+25 V",
    "kind": "power",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
-   "page": 1
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VCC-AUDIO",
+    "kind": "power",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
+   "pin": "22",
+   "ref": "22",
+   "also": null,
+   "same_row": null,
+   "signal": "CHASSIS",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
    "pin": "A",
-   "signal": "MIC IN B",
+   "ref": "A",
+   "also": null,
+   "same_row": null,
+   "signal": "MIC B INPUT",
    "kind": "in",
-   "pair": "A1",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "D",
-   "signal": "AUX",
-   "kind": "audio",
-   "pair": "B2",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "E",
-   "signal": "CUE SOLO",
-   "kind": "audio",
-   "pair": "B1",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "F",
-   "signal": "M1 OUT",
-   "kind": "out",
-   "pair": "A3",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "H",
-   "signal": "M2 OUT",
-   "kind": "out",
-   "pair": "A4",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "L",
-   "signal": "FADER RETURN",
-   "kind": "in",
-   "pair": "B4",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "P",
-   "signal": "LINE IN B",
-   "kind": "in",
-   "pair": "A2",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "T",
-   "signal": "FADER SEND",
-   "kind": "out",
-   "pair": "B3",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "Y",
-   "signal": "+48 V",
-   "kind": "power",
-   "pair": null,
+   "port": "MIC B INPUT",
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M480C/M480C.rto144.json",
-   "page": 1
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": {
+    "signal": "MIC-IN-B -",
+    "kind": "in",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "B",
+   "ref": "B",
+   "also": null,
+   "same_row": null,
+   "signal": "MIC A INPUT",
+   "kind": "in",
+   "port": "MIC A INPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "C",
+   "ref": "C",
+   "also": null,
+   "same_row": null,
+   "signal": "SHIELD",
+   "kind": "shield",
+   "port": null,
+   "polarity": "shield",
+   "confidence": "high",
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "D",
+   "ref": "D",
+   "also": null,
+   "same_row": null,
+   "signal": "AUX OUTPUT",
+   "kind": "out",
+   "port": "AUX OUTPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Aux -",
+    "kind": "other",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "E",
+   "ref": "E",
+   "also": null,
+   "same_row": null,
+   "signal": "CUE/SOLO OUTPUT",
+   "kind": "out",
+   "port": "CUE/SOLO OUTPUTS",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Cue Solo -",
+    "kind": "other",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "F",
+   "ref": "F",
+   "also": null,
+   "same_row": null,
+   "signal": "M1 OUTPUT",
+   "kind": "out",
+   "port": "M1 OUTPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": {
+    "signal": "M1 OUT -",
+    "kind": "out",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "H",
+   "ref": "H",
+   "also": null,
+   "same_row": null,
+   "signal": "M2 OUTPUT",
+   "kind": "out",
+   "port": "M2 OUTPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": {
+    "signal": "M2 OUT -",
+    "kind": "out",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "J",
+   "ref": "J",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "K",
+   "ref": "K",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "L",
+   "ref": "L",
+   "also": null,
+   "same_row": null,
+   "signal": "FADER INSERT IN",
+   "kind": "insert_return",
+   "port": "FADER INSERT IN",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Fader Return +",
+    "kind": "in",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "M",
+   "ref": "M",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "N",
+   "ref": "N",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "P",
+   "ref": "P",
+   "also": null,
+   "same_row": null,
+   "signal": "LINE A INPUT",
+   "kind": "in",
+   "port": "LINE A INPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Line IN-B -",
+    "kind": "in",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "R",
+   "ref": "R",
+   "also": null,
+   "same_row": null,
+   "signal": "LINE B INPUT",
+   "kind": "in",
+   "port": "LINE B INPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "S",
+   "ref": "S",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "T",
+   "ref": "T",
+   "also": null,
+   "same_row": null,
+   "signal": "FADER INSERT OUT",
+   "kind": "insert_send",
+   "port": "FADER INSERT OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Fader Send -",
+    "kind": "out",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "U",
+   "ref": "U",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "V",
+   "ref": "V",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "W",
+   "ref": "W",
+   "also": null,
+   "same_row": null,
+   "signal": "M1 CONTROL",
+   "kind": "control_in",
+   "port": "M1 CTL",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "X",
+   "ref": "X",
+   "also": null,
+   "same_row": null,
+   "signal": "M2 CONTROL",
+   "kind": "control_in",
+   "port": "M2 CTL",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "Y",
+   "ref": "Y",
+   "also": null,
+   "same_row": null,
+   "signal": "+48 V PHANTOM",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Phantom",
+    "kind": "power",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "Z",
+   "ref": "Z",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M480C/PINOUTS/1982 - M480C - P18 - 5-1 - pinout.pinout.json"
+   ],
+   "sheet": null
+  }
+ ],
+ "ports": [
+  {
+   "name": "MIC B INPUT",
+   "dir": "in",
+   "pins": {
+    "a": "P1-1",
+    "b": "P1-A"
+   }
+  },
+  {
+   "name": "MIC A INPUT",
+   "dir": "in",
+   "pins": {
+    "a": "P1-2",
+    "b": "P1-B"
+   }
+  },
+  {
+   "name": "AUX OUTPUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-4",
+    "b": "P1-D"
+   }
+  },
+  {
+   "name": "CUE/SOLO OUTPUTS",
+   "dir": "out",
+   "pins": {
+    "a": "P1-5",
+    "b": "P1-E"
+   }
+  },
+  {
+   "name": "M1 OUTPUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-6",
+    "b": "P1-F"
+   }
+  },
+  {
+   "name": "M2 OUTPUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-7",
+    "b": "P1-H"
+   }
+  },
+  {
+   "name": "FADER INSERT IN",
+   "dir": "insert_return",
+   "pins": {
+    "a": "P1-10",
+    "b": "P1-L"
+   }
+  },
+  {
+   "name": "LINE A INPUT",
+   "dir": "in",
+   "pins": {
+    "a": "P1-13",
+    "b": "P1-P"
+   }
+  },
+  {
+   "name": "LINE B INPUT",
+   "dir": "in",
+   "pins": {
+    "a": "P1-14",
+    "b": "P1-R"
+   }
+  },
+  {
+   "name": "FADER INSERT OUT",
+   "dir": "insert_send",
+   "pins": {
+    "a": "P1-16",
+    "b": "P1-T"
+   }
+  },
+  {
+   "name": "M1 CTL",
+   "dir": "control_in",
+   "pins": {
+    "a": "P1-W"
+   }
+  },
+  {
+   "name": "M2 CTL",
+   "dir": "control_in",
+   "pins": {
+    "a": "P1-X"
+   }
+  }
+ ],
+ "inserts": [
+  {
+   "name": "FADER INSERT",
+   "send": "FADER INSERT OUT",
+   "return": "FADER INSERT IN",
+   "normalled": null,
+   "note": "T/16 out, L/10 in"
   }
  ],
  "straps": [],
- "power": [
-  {
-   "rail": "VEE-AUDIO",
-   "style": "NEW",
-   "volts": -25,
-   "max_a": 0.2,
-   "supply": "19",
-   "ground": "20",
-   "link": 2
-  },
-  {
-   "rail": "VCC-AUDIO",
-   "style": "NEW",
-   "volts": 25,
-   "max_a": 0.2,
-   "supply": "21",
-   "ground": "20",
-   "link": 1
-  },
-  {
-   "rail": "Phantom",
-   "style": null,
-   "volts": 48,
-   "max_a": 0.2,
-   "supply": "Y",
-   "ground": "20",
-   "link": null
-  }
- ],
- "sources": [
-  "Engineering/RTO-144/M480C/M480C.rto144.json"
- ]
+ "conflicts": [],
+ "to_check": []
 }

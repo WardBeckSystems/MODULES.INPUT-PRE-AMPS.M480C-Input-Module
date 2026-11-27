@@ -108,30 +108,56 @@ Not on Google Drive yet: `M480C - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
-21 contacts. Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 1 pinout picture (each its own `.pinout.json` beside it); the RTO-144 sheet agrees on 20 of 20 contacts. Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+**Inserts:** FADER INSERT: FADER INSERT OUT → FADER INSERT IN
+
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 1 | MIC IN B | in | A1 + | high |
-| 4 | AUX | audio | B2 + | high |
-| 5 | CUE SOLO | audio | B1 + | high |
-| 6 | M1 OUT | out | A3 + | high |
-| 7 | M2 OUT | out | A4 + | high |
-| 10 | FADER RETURN | in | B4 - | high |
-| 13 | LINE IN B | in | A2 + | high |
-| 16 | FADER SEND | out | B3 + | high |
+| 1 | MIC B INPUT | in | MIC B INPUT | high |
+| 2 | MIC A INPUT | in | MIC A INPUT | high |
+| 3 | SHIELD | shield | shield | high |
+| 4 | AUX OUTPUT | out | AUX OUTPUT | high |
+| 5 | CUE/SOLO OUTPUT | out | CUE/SOLO OUTPUTS | high |
+| 6 | M1 OUTPUT | out | M1 OUTPUT | high |
+| 7 | M2 OUTPUT | out | M2 OUTPUT | high |
+| 8 | N/C | nc |  | high |
+| 9 | N/C | nc |  | high |
+| 10 | FADER INSERT IN | insert_return | FADER INSERT IN | high |
+| 11 | N/C | nc |  | high |
+| 12 | N/C | nc |  | high |
+| 13 | LINE A INPUT | in | LINE A INPUT | high |
+| 14 | LINE B INPUT | in | LINE B INPUT | high |
+| 15 | N/C | nc |  | high |
+| 16 | FADER INSERT OUT | insert_send | FADER INSERT OUT | high |
+| 17 | N/C | nc |  | high |
+| 18 | CONTROL COMMON | ground |  | high |
 | 19 | -25 V | power |  | high |
 | 20 | COMMON | ground |  | high |
 | 21 | +25 V | power |  | high |
-| A | MIC IN B | in | A1 - | high |
-| D | AUX | audio | B2 - | high |
-| E | CUE SOLO | audio | B1 - | high |
-| F | M1 OUT | out | A3 - | high |
-| H | M2 OUT | out | A4 - | high |
-| L | FADER RETURN | in | B4 + | high |
-| P | LINE IN B | in | A2 - | high |
-| T | FADER SEND | out | B3 - | high |
-| Y | +48 V | power |  | high |
+| 22 | CHASSIS | ground |  | high |
+| A | MIC B INPUT | in | MIC B INPUT | high |
+| B | MIC A INPUT | in | MIC A INPUT | high |
+| C | SHIELD | shield | shield | high |
+| D | AUX OUTPUT | out | AUX OUTPUT | high |
+| E | CUE/SOLO OUTPUT | out | CUE/SOLO OUTPUTS | high |
+| F | M1 OUTPUT | out | M1 OUTPUT | high |
+| H | M2 OUTPUT | out | M2 OUTPUT | high |
+| J | N/C | nc |  | high |
+| K | N/C | nc |  | high |
+| L | FADER INSERT IN | insert_return | FADER INSERT IN | high |
+| M | N/C | nc |  | high |
+| N | N/C | nc |  | high |
+| P | LINE A INPUT | in | LINE A INPUT | high |
+| R | LINE B INPUT | in | LINE B INPUT | high |
+| S | N/C | nc |  | high |
+| T | FADER INSERT OUT | insert_send | FADER INSERT OUT | high |
+| U | N/C | nc |  | high |
+| V | N/C | nc |  | high |
+| W | M1 CONTROL | control_in | M1 CTL | high |
+| X | M2 CONTROL | control_in | M2 CTL | high |
+| Y | +48 V PHANTOM | power |  | high |
+| Z | N/C | nc |  | high |
 
 ## Manuals and documents
 
