@@ -1,5 +1,5 @@
 # 1982 - M480C - 480-01-002 - CUE-SOLO SOLO CONTROL CONTROL COMMON ISSU.jpg
-Wiki page: [M480C](../../../../PAGES/M480C.md)
+Wiki page: [M480C](../)
 
 
 - **Year:** 1982 (module estimate (manual_issue))

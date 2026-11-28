@@ -1,5 +1,5 @@
 # 1982 - M480C - 480-04-006 - MABOC INPUT MODULE FRONT PANEL ISSE.jpg
-Wiki page: [M480C](../../../../PAGES/M480C.md)
+Wiki page: [M480C](../)
 
 
 - **Year:** 1982 (module estimate (manual_issue))

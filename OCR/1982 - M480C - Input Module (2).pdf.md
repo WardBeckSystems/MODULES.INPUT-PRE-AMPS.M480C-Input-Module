@@ -1,5 +1,5 @@
 # 1982 - M480C - Input Module (2).pdf
-Wiki page: [M480C](../../../../PAGES/M480C.md)
+Wiki page: [M480C](../)
 
 
 - **Year:** 1982 (found in this file: "MANUAL ISSUE ;;2 BS DECEMB ER 1982")

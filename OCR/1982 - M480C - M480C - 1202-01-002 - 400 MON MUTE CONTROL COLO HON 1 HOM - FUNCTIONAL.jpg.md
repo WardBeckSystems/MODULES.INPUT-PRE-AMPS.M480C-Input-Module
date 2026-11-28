@@ -1,5 +1,5 @@
 # 1982 - M480C - M480C - 1202-01-002 - 400 MON MUTE CONTROL COLO HON 1 HOM - FUNCTIONAL.jpg
-Wiki page: [M480C](../../../../PAGES/M480C.md)
+Wiki page: [M480C](../)
 
 
 - **Year:** 1982 (module estimate (manual_issue))

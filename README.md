@@ -1,6 +1,6 @@
 # M480C Input Module · Input Pre Amps
 
-Ward-Beck Systems M480C, 1982|15. Wiki page: [M480C on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M480C.html)
+Ward-Beck Systems M480C, 1982|15. Wiki page: [M480C on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M480C-Input-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

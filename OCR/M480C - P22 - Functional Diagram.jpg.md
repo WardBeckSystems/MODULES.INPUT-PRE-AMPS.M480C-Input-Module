@@ -1,5 +1,5 @@
 # M480C - P22 - Functional Diagram.jpg
-Wiki page: [M480C](../../../../PAGES/M480C.md)
+Wiki page: [M480C](../)
 
 
 - **Year:** unknown (title block (read by eye))
