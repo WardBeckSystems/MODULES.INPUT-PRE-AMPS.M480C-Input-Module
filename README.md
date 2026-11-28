@@ -4,13 +4,12 @@ Ward-Beck Systems M480C, 1982|15. Wiki page: [M480C on WBSps.ca](https://wardbec
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 29 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 12 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 11 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 175 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 15 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 10 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 28 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 11 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 10 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 174 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 14 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 9 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 47 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -83,6 +82,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQXlXcUVUaW51WEk/view?resourcekey=0-rQ_rqjXqrtyICK95V5wz9Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQXlXcUVUaW51WEk&resourcekey=0-rQ_rqjXqrtyICK95V5wz9Q" width="240" alt="1982 - M480C - 480-04-006 - MABOC INPUT MODULE FRONT PANEL ISSE.jpg"></a><br><sub>1982|15 · 480-04-006 - MABOC INPUT MODULE FRONT PANEL ISSE · <a href="MECHANICAL/1982%20-%20M480C%20-%20480-04-006%20-%20MABOC%20INPUT%20MODULE%20FRONT%20PANEL%20ISSE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSWQ4LWo2N01MRW8/view?resourcekey=0-HONMjFQUNiYS3FNM5KZfNw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSWQ4LWo2N01MRW8&resourcekey=0-HONMjFQUNiYS3FNM5KZfNw" width="240" alt="19xx - M480C - DOC - 1202-04-007 - OSCILLATOR CUE-SOLO RE-ENTRY AND AUX LEVEL SCHEMATIC.jpg"></a><br><sub>19xx - M480C - DOC - 1202-04-007 - OSCILLATOR CUE-SOLO RE-ENTRY AND AUX LEVEL SCHEMATIC · <a href="MECHANICAL/19xx%20-%20M480C%20-%20DOC%20-%201202-04-007%20-%20OSCILLATOR%20CUE-SOLO%20RE-ENTRY%20AND%20AUX%20LEVEL%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M480C.stl`](MECHANICAL/M480C.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M480C)
+
+- **Size:** 63.63 × 315.73 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 23 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M480C - front panel.svg`)
+- the drawn panel is 0.15 wide to high, the size 0.20: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M480C.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
@@ -94,8 +102,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 
 Shared privately on Google Drive (opens after sign-in): [1982|15 · M480C - 1202-01-002 - 400 MON MUTE CONTROL COLO HON 1 HOM - FUNCTIONAL](https://drive.google.com/file/d/0B0yR0b5T78SKMmtZQW0yQWRnRXM/view?resourcekey=0-O2zDz3f-PF6OAh_Jsv9plg)
 
-Not on Google Drive yet: `M480C - P22 - Functional Diagram.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
@@ -103,8 +109,6 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKeTJlTE8wM2tXUG8/view?resourcekey=0-Nsn2CpRDxAk81aqIdpMTWg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKeTJlTE8wM2tXUG8&resourcekey=0-Nsn2CpRDxAk81aqIdpMTWg" width="240" alt="1982 - M480C - P18 - 5-1 - pinout.jpg"></a><br><sub>1982|15 · P18 - 5-1 - pinout · <a href="PINOUTS/1982%20-%20M480C%20-%20P18%20-%205-1%20-%20pinout%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `M480C - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -187,7 +191,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - M480C - DOC - 1202-02-017 - POSTS CHASSIS GROUND.kicad_sch](KICAD/19xx%20-%20M480C%20-%20DOC%20-%201202-02-017%20-%20POSTS%20CHASSIS%20GROUND.kicad_sch)
 - [M480C - P22 - Functional Diagram.kicad_sch](KICAD/M480C%20-%20P22%20-%20Functional%20Diagram.kicad_sch)
 - [M480C.kicad_sym](KICAD/M480C.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
